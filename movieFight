@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T10:01:53.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.6" etag="iB2a9fmgX9N3O2vvyGVL" type="github"><diagram id="2BA2npXybnbVScrPHAwi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-28T10:11:51.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="rY5NIVy9TK1-euDLvr01" version="15.8.6" type="github">
+  <diagram id="2BA2npXybnbVScrPHAwi" name="Page-1">
+    <mxGraphModel dx="1422" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-1" value="default state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F8oxIG_VB4PAjOO1t_VR-1" target="F8oxIG_VB4PAjOO1t_VR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-4" value="User starts typing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-6" value="dar..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="F8oxIG_VB4PAjOO1t_VR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-8" value="User finishes typing and we find matching movies. Show menu, display results" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-9" value="dark knight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-11" value="The Dark Knight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-13" value="Knight times" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-14" value="etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F8oxIG_VB4PAjOO1t_VR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="220" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-16" value="No results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8oxIG_VB4PAjOO1t_VR-15">
+          <mxGeometry x="0.3854" y="-1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-18" value="dark knight (no menu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="F8oxIG_VB4PAjOO1t_VR-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="520" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8oxIG_VB4PAjOO1t_VR-20" value="If user select a movie, show movie details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
